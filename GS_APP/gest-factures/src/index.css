@@ -1,0 +1,45 @@
+body{
+  margin: 0%;
+  overflow-y: scroll;
+}
+
+#gr-clt:hover{
+  background-image: linear-gradient(60deg, #075675, #1bebeb);
+}
+#gr-fact:hover{
+  background-image: linear-gradient(60deg, #075675, #1bebeb);
+}
+#cr-fact:hover{
+  background-image: linear-gradient(60deg, #075675, #1bebeb);
+}
+
+#btn1:hover{
+  background-image: linear-gradient(60deg, #075675, #1bebeb);
+}
+
+#btn2:hover{
+  background-image: linear-gradient(60deg, #317194, #0c5074);
+}
+
+
+#logoutbtn:hover{
+  background-image: linear-gradient(190deg, #3f3e12, #5f5e26);
+}
+
+
+#delbtn:hover{
+  background-image: linear-gradient(190deg, #b1aeae, #b1aeae);
+  
+}
+
+#addbtn:hover{
+  background-image: linear-gradient(190deg, #b1aeae, #b1aeae);
+}
+
+
+
+
+
+
+
+
